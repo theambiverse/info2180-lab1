@@ -1,2 +1,2 @@
 # info2180-lab1
-see r-name
+This is Lab 1 for Nikita Clemetson
